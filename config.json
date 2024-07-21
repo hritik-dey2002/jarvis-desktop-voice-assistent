@@ -1,0 +1,26 @@
+{
+    "window" :
+        {
+            "width" : -1,
+            "height" : -1,
+            "min_width" : 410,
+            "min_height" : 650,
+            "max_width" : -1,
+            "max_height" : -1,
+            "title" : "Jarvis DA"
+        },
+    "lang_model":"vosk-model-en-in-0.5",
+    "colors" :
+    {
+        "body" : "#000000"
+    },
+    "picture" :
+    {
+        "jarvis":"img\\jarvis_logo.gif",
+        "icon_file": "img\\jarvis.ico",
+        "mic" : "img\\mic.jpeg",
+        "listening" : "img\\audio_waveform.gif",
+        "iron_man" : "img\\iron_man.gif",
+        "clock" : "img\\clock.png"
+    }
+}
